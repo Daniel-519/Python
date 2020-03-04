@@ -1,8 +1,7 @@
 import random
 import time
 
-from actors import Wizard
-from actors import Creature
+from actors import Wizard, Creature, SmallAnimal, Dragon
 
 
 def main():
@@ -19,10 +18,10 @@ def print_the_header():
 
 def game_loop():
     creatures = [
-        Creature('Toad', 1),
+        SmallAnimal('Toad', 1),
         Creature('Tiger', 12),
-        Creature('Bat', 3),
-        Creature('Dragon', 50),
+        SmallAnimal('Bat', 3),
+        Dragon('Dragon', 50, 100, True),
         Creature('Evil Wizard', 1000)
     ]
     # print(creatures)

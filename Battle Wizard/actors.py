@@ -10,7 +10,7 @@ class Creature:
         return "Creature: {} of level {}".format(self.name, self.level)
 
     def get_defensive_roll(self):
-        return random.randint(1, 2)*self.level
+        return random.randint(1, 12)*self.level
 
 
 class Wizard(Creature):
@@ -31,5 +31,22 @@ class Wizard(Creature):
             return False
 
 
+class SmallAnimal(Creature):
+    def get_defensive_roll(self):
+        base_roll = super().get_defensive_roll()
+        return base_roll / 2
+
+
+class Dragon(Creature):
+    def __init__(self, name, level, scaliness, breaths_fire):
+        super().__init__(name, level)
+        self.breaths_fire = breaths_fire
+        self.scaliness = scaliness
+
+    def get_defensive_roll(self):
+        base_roll = super().get_defensive_roll()
+        fire_modifer = 5 if self.breaths_fire else 1
+        scale_modifer = self.scaliness / 10
+        return base_roll * fire_modifer * scale_modifer
 
 
