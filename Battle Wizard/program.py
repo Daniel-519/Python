@@ -15,6 +15,7 @@ def print_the_header():
 
 
 def game_loop():
+    
     creatures = [
         Creature('Toad', 1),
         Creature('Tiger', 12),
