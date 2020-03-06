@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3eed386-89a4-4680-9c32-d058e0d8acb2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Real_Estate_Analyzer/program.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSV-JSON/data/output.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSV-JSON/progam.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,20 +15,53 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Python_Work$program__2_.coverage" NAME="program (2) Coverage Results" MODIFIED="1583429166290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Real_Estate_Analyzer" />
+    <SUITE FILE_PATH="coverage/Python_Work$play.coverage" NAME="play Coverage Results" MODIFIED="1583439972280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Movie Search" />
     <SUITE FILE_PATH="coverage/Python_Work$program.coverage" NAME="program Coverage Results" MODIFIED="1583299718546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Battle Wizard" />
     <SUITE FILE_PATH="coverage/Python_Work$concept_dicts.coverage" NAME="concept_dicts Coverage Results" MODIFIED="1583421773532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Real_Estate_Analyzer" />
+    <SUITE FILE_PATH="coverage/Python_Work$progam.coverage" NAME="progam Coverage Results" MODIFIED="1583465152809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CSV-JSON" />
     <SUITE FILE_PATH="coverage/Python_Work$program__1_.coverage" NAME="program (1) Coverage Results" MODIFIED="1583378891068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/File searcher" />
+  </component>
+  <component name="DockManager">
+    <window id="2">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file leaf-file-name="ymm.csv" pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/CSV-JSON/data/ymm.csv">
+                <provider editor-type-id="csv-table-editor">
+                  <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+                </provider>
+                <provider selected="true" editor-type-id="csv-text-editor">
+                  <state relative-caret-position="44">
+                    <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="program.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Real_Estate_Analyzer/program.py">
+      <file leaf-file-name="progam.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CSV-JSON/progam.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-660">
-              <caret line="72" column="10" lean-forward="true" selection-start-line="72" selection-start-column="10" selection-end-line="72" selection-end-column="10" />
+            <state relative-caret-position="440">
+              <caret line="41" column="16" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
               <folding>
-                <element signature="e#0#10#0" expanded="true" />
+                <element signature="e#0#9#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="output.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CSV-JSON/data/output.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1518">
+              <caret line="125857" column="29" selection-start-line="125857" selection-start-column="29" selection-end-line="125857" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -35,32 +69,8 @@
       <file leaf-file-name="data_types.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Real_Estate_Analyzer/data_types.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-330" />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="data.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Real_Estate_Analyzer/data/data.csv">
-          <provider editor-type-id="csv-table-editor">
-            <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-          </provider>
-          <provider selected="true" editor-type-id="csv-text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="statistics_standin_for_py2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Real_Estate_Analyzer/statistics_standin_for_py2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="concept_dicts.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Real_Estate_Analyzer/concept_dicts.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-110">
-              <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+            <state relative-caret-position="264">
+              <caret line="18" column="33" selection-start-line="17" selection-start-column="4" selection-end-line="18" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -74,6 +84,19 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Audi</find>
+      <find>2018,Audi</find>
+      <find>2018,Acura</find>
+      <find>1936</find>
+      <find>1937</find>
+      <find>2019</find>
+      <find>23841</find>
+      <find>Acura</find>
+      <find>2018</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -86,6 +109,11 @@
         <option value="$PROJECT_DIR$/File searcher/program.py" />
         <option value="$PROJECT_DIR$/Real_Estate_Analyzer/program.py" />
         <option value="$PROJECT_DIR$/Real_Estate_Analyzer/concept_dicts.py" />
+        <option value="$PROJECT_DIR$/CSV-JSON/progra,.py" />
+        <option value="$PROJECT_DIR$/CSV-JSON/data/ymm.csv" />
+        <option value="$PROJECT_DIR$/CSV-JSON/data/output.json" />
+        <option value="$PROJECT_DIR$/KCY/mmy.py" />
+        <option value="$PROJECT_DIR$/CSV-JSON/progam.py" />
       </list>
     </option>
   </component>
@@ -98,11 +126,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="136" />
-    <option name="y" value="69" />
-    <option name="width" value="1555" />
-    <option name="height" value="898" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="52" />
+    <option name="y" value="39" />
+    <option name="width" value="1876" />
+    <option name="height" value="1031" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -125,18 +153,12 @@
             <path>
               <item name="Python Work" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python Work" type="462c0819:PsiDirectoryNode" />
+              <item name="CSV-JSON" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python Work" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python Work" type="462c0819:PsiDirectoryNode" />
               <item name="File searcher" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python Work" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python Work" type="462c0819:PsiDirectoryNode" />
-              <item name="Real_Estate_Analyzer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python Work" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python Work" type="462c0819:PsiDirectoryNode" />
-              <item name="Real_Estate_Analyzer" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -149,6 +171,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../HelloWorld" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -162,7 +185,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.program (2)">
+  <component name="RunManager" selected="Python.progam">
     <configuration name="concept_dicts" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python Work" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -177,6 +200,44 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Real_Estate_Analyzer/concept_dicts.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="play" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python Work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Movie Search" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Movie Search/play.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="progam" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python Work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CSV-JSON" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CSV-JSON/progam.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -220,37 +281,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="program" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python Work" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Battle Wizard" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Battle Wizard/program.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list>
-      <item itemvalue="Python.program" />
       <item itemvalue="Python.program (1)" />
       <item itemvalue="Python.concept_dicts" />
       <item itemvalue="Python.program (2)" />
+      <item itemvalue="Python.play" />
+      <item itemvalue="Python.progam" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.progam" />
+        <item itemvalue="Python.play" />
         <item itemvalue="Python.program (2)" />
         <item itemvalue="Python.concept_dicts" />
         <item itemvalue="Python.program (1)" />
-        <item itemvalue="Python.program" />
       </list>
     </recent_temporary>
   </component>
@@ -268,7 +312,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="136" y="69" width="1555" height="898" extended-state="0" />
+    <frame x="52" y="39" width="1876" height="1031" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -276,15 +320,15 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32971507" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.24597701" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32971507" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18862876" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15528634" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.26666668" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -299,6 +343,11 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/File searcher/program.py">
@@ -362,13 +411,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Real_Estate_Analyzer/statistics_standin_for_py2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Real_Estate_Analyzer/data/data.csv">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -380,6 +422,13 @@
       </provider>
       <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/Real_Estate_Analyzer/statistics_standin_for_py2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Real_Estate_Analyzer/concept_dicts.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-110">
@@ -387,17 +436,97 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Movie Search/play.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="34" column="30" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Movie Search/movie_svc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-60">
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Movie Search/program.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSV-JSON/progra,.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Real_Estate_Analyzer/data_types.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-330" />
+        <state relative-caret-position="264">
+          <caret line="18" column="33" selection-start-line="17" selection-start-column="4" selection-end-line="18" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSV-JSON/data/ymm.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="61" selection-end-line="84" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Real_Estate_Analyzer/program.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-660">
-          <caret line="72" column="10" lean-forward="true" selection-start-line="72" selection-start-column="10" selection-end-line="72" selection-end-column="10" />
+        <state relative-caret-position="462">
+          <caret line="45" column="41" selection-start-line="45" selection-start-column="10" selection-end-line="45" selection-end-column="41" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSV-JSON/data/output.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1518">
+          <caret line="125857" column="29" selection-start-line="125857" selection-start-column="29" selection-end-line="125857" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KCY/temp.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSV-JSON/data/ymm.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KCY/mmy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="50" column="55" lean-forward="true" selection-start-line="50" selection-start-column="55" selection-end-line="50" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSV-JSON/progam.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="41" column="16" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
